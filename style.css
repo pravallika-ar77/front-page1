@@ -1,0 +1,11 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+#tasks {
+    list-style-type: none;
+    padding: 0;
+}
+#tasks li {
+    margin: 5px 0;
+}
